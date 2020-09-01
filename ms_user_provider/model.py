@@ -9,6 +9,7 @@ class UserModel:
     name = ''
     first_name = ''
     last_name = ''
+    is_active = True
 
 
 def get_user_model(token):
