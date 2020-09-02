@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="mesghal-user-provider",  # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="Ali Modares",
     author_email="s.a.modares.h@gmail.com",
     description="mesghal user model",
